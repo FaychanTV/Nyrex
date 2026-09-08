@@ -1,1 +1,6 @@
 # Nyrex
+
+DISCORD_TOKEN = 
+PREFIX = +
+INSTANCE_NAME=NyrexV2
+CLIENT_ID=

@@ -1,0 +1,6 @@
+node_modules/
+.env
+logs/
+security_lock.json
+presences.json
+*.zip

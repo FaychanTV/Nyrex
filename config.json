@@ -1,0 +1,235 @@
+{
+  "prefix": "+",
+  "staffRoleId": "1453991571547754547",
+  "ticketCategories": {
+    "Ticket Plainte": {
+      "id": "1456748564591149167",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456793392800469002"
+      ],
+      "ticketName": "Plainte-{number}",
+      "emoji": "🚨",
+      "style": "Secondary",
+      "customWelcomeTitle": "🚨 Ticket Plainte",
+      "customWelcomeMessage": "Merci de décrire clairement le problème rencontré :\n\n* Personne(s) concernée(s)\n* Situation détaillée\n* Date / contexte\n* Preuves si disponibles (screens, messages, etc.)\n* Preuves avec GoPro sur votre torse ou autre !\n\n⛔ Toute plainte abusive ou mensongère pourra entraîner des plaintes contre vous.\nNotre équipe traitera votre demande dans les plus brefs délais.",
+      "requireUserInfo": true
+    },
+    "Ticket Direction": {
+      "id": "1456791076374581384",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "ticketName": "Direction-{number}",
+      "style": "Secondary",
+      "emoji": "🧑‍💼",
+      "customWelcomeTitle": "🧑‍💼 Ticket Direction",
+      "customWelcomeMessage": "Vous êtes en contact direct avec la direction.\nMerci d’expliquer votre demande de manière **claire, respectueuse et détaillée**.\n\n⚠️ Ce ticket est strictement confidentiel.\nMerci de patienter, un membre de la direction vous répondra rapidement.",
+      "requireUserInfo": true
+    },
+    "Ticket Question": {
+      "id": "1456843980762386554",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "ticketName": "Question-{number}",
+      "emoji": "❓",
+      "style": "Secondary",
+      "customWelcomeTitle": "❓ Ticket Question",
+      "customWelcomeMessage": "Merci de poser votre question ou votre demande d’information.\nNotre équipe est là pour vous aider 💬\n\n👉 Plus votre message est précis, plus la réponse sera rapide.",
+      "requireUserInfo": true
+    },
+    "Devenir Graphiste": {
+      "id": "1457663196889485548",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456796673262223380"
+      ],
+      "customWelcomeTitle": "🎨 Devenir Graphiste",
+      "customWelcomeMessage": "Nous sommes ravis que vous souhaitiez rejoindre notre équipe créative ✨🎨 ! Pour que votre candidature soit traitée rapidement et sérieusement ⏱️✅, merci de remplir **toutes les informations demandées** avec soin ✍️. Plus votre présentation est complète, plus nous pourrons évaluer vos talents et vos motivations 💡💪 !\n\n**⚠️ Important :**\n\n* 🆔 Pour vos **pièces d’identité (Carte d’identité + Permis de conduire)**, veuillez envoyer des photos **claires et sans accessoires** ❌🕶️🎩 (pas de lunettes de soleil, chapeaux, filtres ou retouches).\n* 🖼️ Envoyez vos créations/photos de manière **lisible et organisée**, avec une petite explication de chaque élément 📝📷.\n\n```\n**Prénom & Nom :** \n**Date de naissance :** \n**ID unique :** \n**Numéro de téléphone :** \n**Numéro de compte bancaire (RIB) :**\n\n**Motivations / Présentez-vous :** \n\n**Envoyez trois créations :** \n**Explication de vos créations :** \n**Outils utilisés :** \n**Photo Carte d’identité + Permis de Conduire (sans accessoires) :** \n```",
+      "ticketName": "Graphisme-{number}",
+      "emoji": "🎨",
+      "style": "Secondary"
+    },
+    "Devenir Photographe": {
+      "id": "1457663196889485548",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456796673262223380"
+      ],
+      "customWelcomeTitle": "📸 Devenir Photographe",
+      "customWelcomeMessage": "Nous sommes ravis que vous souhaitiez rejoindre notre équipe créative ✨📸 ! Pour que votre candidature soit traitée rapidement et sérieusement ⏱️✅, merci de remplir **toutes les informations demandées** avec soin ✍️. Plus votre présentation est complète, plus nous pourrons évaluer vos talents et vos motivations 💡💪 !\n\n**⚠️ Important :**\n\n* 🆔 Pour vos **pièces d’identité (Carte d’identité + Permis de conduire)**, veuillez envoyer des photos **claires et sans accessoires** ❌🕶️🎩 (pas de lunettes de soleil, chapeaux, filtres ou retouches).\n* 🖼️ Envoyez vos créations/photos de manière **lisible et organisée**, avec une petite explication de chaque élément 📝📷.\n\n```\n**Prénom & Nom :** \n**Date de naissance :** \n**ID unique :** \n**Numéro de téléphone :** \n**Numéro de compte bancaire (RIB) :**\n\n**Motivations / Présentez-vous :** \n\n**Envoyez trois créations :** \n**Explication de vos créations :** \n**Outils utilisés :** \n**Photo Carte d’identité + Permis de Conduire (sans accessoires) :** \n```",
+      "ticketName": "Photographe-{number}",
+      "emoji": "📸",
+      "style": "Secondary"
+    },
+    "Devenir Styliste": {
+      "id": "1457663196889485548",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331"
+      ],
+      "mentionRole": [
+        "1456796673262223380"
+      ],
+      "ticketName": "Styliste-{number}",
+      "emoji": "👗",
+      "customWelcomeTitle": "👗 Devenir Styliste",
+      "customWelcomeMessage": "Nous sommes ravis que vous souhaitiez rejoindre notre équipe créative ✨👗 ! Pour que votre candidature soit traitée rapidement et sérieusement ⏱️✅, merci de remplir **toutes les informations demandées** avec soin ✍️. Plus votre présentation est complète, plus nous pourrons évaluer vos talents et vos motivations 💡💪 !\n\n**⚠️ Important :**\n\n* 🆔 Pour vos **pièces d’identité (Carte d’identité + Permis de conduire)**, veuillez envoyer des photos **claires et sans accessoires** ❌🕶️🎩 (pas de lunettes de soleil, chapeaux, filtres ou retouches).\n* 🖼️ Envoyez vos créations/photos de manière **lisible et organisée**, avec une petite explication de chaque élément 📝📷.\n\n```\n**Prénom & Nom :** \n**Date de naissance :** \n**ID unique :** \n**Numéro de téléphone :** \n**Numéro de compte bancaire (RIB) :**\n\n**Motivations / Présentez-vous :** \n\n**Envoyez trois créations :** \n**Explication de vos créations :** \n**Outils utilisés :** \n**Photo Carte d’identité + Permis de Conduire (sans accessoires) :** \n```",
+      "style": "Secondary"
+    },
+    "Commande Graphisme": {
+      "id": "1457401771969347635",
+      "viewRole": [
+        "1456748563148312693",
+        "1456748563148312694",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456797733494067331",
+        "1456793392800469002",
+        "1456806786400125099"
+      ],
+      "mentionRole": [
+        "1456806786400125099"
+      ],
+      "emoji": "🖌️",
+      "style": "Secondary",
+      "customWelcomeTitle": "🖌️ Commande – Graphisme",
+      "customWelcomeMessage": "Merci de détailler votre demande graphique (Donner toute les informations) :\n\n* Type de visuel (logo, affiche, réseaux sociaux, etc.)\n* Style souhaité\n* Délais\n* Budget (si possible)\n\n🎨 Un graphiste vous prendra en charge rapidement.",
+      "ticketName": "Commande-{number}",
+      "requireUserInfo": true,
+      "privateOnClaim": false,
+      "claimable": false,
+      "removeRoleOnClaim": [
+        "1456802489729945813"
+      ]
+    },
+    "Commande Photographe": {
+      "id": "1457398943297179688",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331",
+        "1456803871971213433"
+      ],
+      "mentionRole": [
+        "1456803871971213433"
+      ],
+      "emoji": "📸",
+      "style": "Secondary",
+      "customWelcomeTitle": "📸 Commande – Photographe",
+      "customWelcomeMessage": "Merci de préciser :\n\n* Type de shooting (événement, produit, portrait, etc.)\n* Date et lieu\n* Style souhaité\n* Budget estimé\n* La personne que vous désirez pour prendre vos photos (si vous avez déjà quelqu'un en tête)\n\n📷 Un photographe de notre équipe vous contactera rapidement.",
+      "ticketName": "Commande-{number}",
+      "requireUserInfo": true,
+      "claimable": true,
+      "privateOnClaim": true,
+      "removeRoleOnClaim": [
+        "1456803871971213433"
+      ],
+      "removeRoleOnClose": [
+        "1456803871971213433"
+      ]
+    },
+    "Commande Stylisme": {
+      "id": "1457402258550558720",
+      "viewRole": [
+        "1456748563148312694",
+        "1456748563148312693",
+        "1456748563148312692",
+        "1456755931026161769",
+        "1456793392800469002",
+        "1456797733494067331",
+        "1456804667467235450"
+      ],
+      "mentionRole": [
+        "1456804667467235450"
+      ],
+      "emoji": "👗",
+      "style": "Secondary",
+      "customWelcomeTitle": "👗 Commande – Stylisme",
+      "customWelcomeMessage": "Merci de décrire votre projet de stylisme :\n\n* Type de projet\n* Objectif (shooting, événement, branding, etc.)\n* Délais\n* Budget si possible\n\n👗 Un styliste vous accompagnera dans votre projet.",
+      "ticketName": "Commande-{number}",
+      "requireUserInfo": true,
+      "requireCgu": true,
+      "claimable": true,
+      "privateOnClaim": true,
+      "claimRole": [
+        "1456804667467235450"
+      ],
+      "removeRoleOnClaim": [
+        "1456804667467235450"
+      ],
+      "removeRoleOnClose": [
+        "1456804667467235450"
+      ]
+    }
+  },
+  "ticketSettings": {
+    "defaultCategory": "support",
+    "panelTitle": "Nyrex Creative 🎨",
+    "panelDescription": "# 🎫 **Tickets – Nyrex Creative** 🎨\nVeuillez utiliser les boutons ci-dessous pour ouvrir un ticket correspondant à votre demande :\n\n🚨 **Ticket Plainte**\n➡️ Pour signaler un problème, un comportement inapproprié ou un litige avec un membre de l’équipe ou un client.\n\n🧑‍💼 **Ticket Direction**\n➡️ Pour contacter la direction de **Nyrex Creative** de manière privée et confidentielle.\n\n❓ **Ticket Question**\n➡️ Pour toute question, information ou demande générale concernant l’agence.\n\n🎨 **Devenir Graphiste**\n➡️ Pour postuler en tant que **Graphiste** au sein de **Nyrex Creative**.\n\n📸 **Devenir Photographe**\n➡️ Pour rejoindre **Nyrex Creative** en tant que **Photographe**.\n\n👗 **Devenir Styliste**\n➡️ Pour intégrer l’équipe **Stylisme** de **Nyrex Creative**.\n\n🖌️ **Ticket Commande – Graphisme**\n➡️ Pour commander nos services de création visuelle\n(logos, affiches, visuels réseaux sociaux, branding, etc.).\n\n📸 **Ticket Commande – Photographe**\n➡️ Pour réserver nos services de photographie\n(shootings, événements, portraits, produits…).\n\n👗 **Ticket Commande – Stylisme**\n➡️ Pour bénéficier de nos services de stylisme\n(conseils, tenues, direction artistique, projets visuels).",
+    "buttonLabel": "Ouvrir un ticket",
+    "ticketWelcomeTitle": "🎫 Ticket Support",
+    "ticketWelcomeMessage": "Bonjour {user}, un membre du staff va prendre en charge votre demande.",
+    "viewRole": "",
+    "mentionRole": "",
+    "closeCategory": "1457471820893782026",
+    "maxTickets": 5,
+    "globalCategory": "",
+    "ticketCount": 263,
+    "transcriptLocalPath": "F:\\ROOT\\transcript",
+    "transcriptTargetServerId": "1543570076664467536",
+    "mirrorGuildId": "1543570076664467536",
+    "renameRole": [
+      "1456796673262223380",
+      "1456793392800469002",
+      "1456797733494067331"
+    ]
+  }
+}
